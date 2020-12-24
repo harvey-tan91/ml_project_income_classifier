@@ -13,7 +13,7 @@ To develop a classifier that classify instances into 2 classes, 1) individuals e
 
 2b) Fine-tune the alternative model using Grid Search 
 
-3) Compare if the complex model (Random Forest) perform significantly better than the Decision Tree model
+3a) Compare if the complex model (Random Forest) perform significantly better than the Decision Tree model
 
 # Performance Metrics
-Model's performance will be measured by their model's accuracy.
+Models will be evaluated based on their F1 score
