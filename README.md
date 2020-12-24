@@ -1,5 +1,5 @@
 # Income Classifier
-This project is based on the dataset from Kaggle (https://www.kaggle.com/lodetomasi1995/income-classification).
+This project is based on the dataset from Kaggle - https://www.kaggle.com/lodetomasi1995/income-classification 
 
 # Objective
 To develop a classifier that classify instances into 2 classes, 1) individuals earning more than 50K, 2) individuals earning less than 50K a year.
